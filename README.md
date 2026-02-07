@@ -21,7 +21,7 @@ I don't just memorize commands - I build understanding:
 
 ## 🛠️ Tech Stack (Learning)
 
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]([https://www.credly.com/badges/b2d88087-692d-4f5e-b41a-b52534e0ea17/public_url](https://www.credly.com/users/chad-dutcher.d967a058))
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/users/chad-dutcher.d967a058)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
