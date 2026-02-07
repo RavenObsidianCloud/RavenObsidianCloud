@@ -26,6 +26,11 @@ I don't just memorize commands - I build understanding:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+
+<a href="https://www.credly.com/badges/b2d88087-692d-4f5e-b41a-b52534e0ea17">
+  <img src="https://cdn.qwiklabs.com/Z60BECBTnGgDcH2nSAAjaaU2jZ0EpiEZUG87t3KgoWM%3D" width="150" alt="Google Cloud Badge">
+</a>
+
 **Current Focus:**
 - Compute Engine & VM management
 - Google Kubernetes Engine (GKE)
