@@ -14,14 +14,14 @@
 ## 💙 The Ravenclaw Approach
 
 I don't just memorize commands - I build understanding:
-- 📖 Creating mental models (like my "Skyscraper of GCP")
-- 🔍 Testing everything hands-on
+- 📖 Creating mental models (like my "Skyscraper of GCP" Inprogress)
+- 🔍 Testing everything hands-on (kentintic learning)
 - 📝 Documenting the journey
 - 🤝 Sharing what I learn
 
 ## 🛠️ Tech Stack (Learning)
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/b2d88087-692d-4f5e-b41a-b52534e0ea17/public_url)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -38,6 +38,14 @@ I don't just memorize commands - I build understanding:
 - Cloud Storage & lifecycle policies
 - VPC networking & firewalls
 - IAM roles & service accounts
+- Database Optimization: Implementing granular scaling in Cloud Spanner using Processing Units (PUs) instead of full nodes to optimize costs.
+
+## 💰 FinOps & Cost Optimization
+I prioritize building cost-effective infrastructure. A key example is my approach to **Google Cloud Spanner**:
+
+- **Granular Scaling:** By using `100 --processing-units` (PUs) instead of `1 --node`, I can deploy an instance at **10% of the cost**.
+- **The Math:** $100 \text{ PUs} = 0.1 \text{ nodes}$. 
+- **Efficiency:** This reduces the entry cost from ~$650/mo to ~$65/mo while retaining the same $1024$ GB storage limit—perfect for lean development and scaling.
 
 ## 🏰 Why "RavenObsidianCloud"?
 
