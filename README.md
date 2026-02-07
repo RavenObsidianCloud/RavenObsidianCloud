@@ -29,6 +29,7 @@ I don't just memorize commands - I build understanding:
 
 <a href="https://www.credly.com/badges/b2d88087-692d-4f5e-b41a-b52534e0ea17">
   <img src="https://cdn.qwiklabs.com/Z60BECBTnGgDcH2nSAAjaaU2jZ0EpiEZUG87t3KgoWM%3D" width="150" alt="Google Cloud Badge">
+  <img src="https://cdn.qwiklabs.com/7CLlkjp3DemCkB%2BZFRLGMSR03ctCN2WizrJAdA7mWec%3D" width="150" alt="Google Cloud Badge">
 </a>
 
 **Current Focus:**
